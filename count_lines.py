@@ -3,7 +3,7 @@ import sys
 This script counts the lines in standard input
 Input: text from the system
 Output: in counts the number of lines
-Author: Alessandro Riccardi
+Author: A. Riccardi
 """
 count = 0
 
